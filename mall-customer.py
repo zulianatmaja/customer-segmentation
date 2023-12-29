@@ -15,3 +15,8 @@ X = df.drop(['CustomerID', 'Gender'], axis=1)
 
 st.header("Isi Dataset")
 st.write(df)
+
+
+Asususususu
+
+
